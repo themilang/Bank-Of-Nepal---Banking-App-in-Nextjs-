@@ -25,6 +25,7 @@ const Home = () => {
          
           
         </header>
+        REECENT TRANSACTION
         
       </div>
     </section>
